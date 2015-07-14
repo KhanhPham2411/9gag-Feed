@@ -7,12 +7,14 @@ demo: http://youtu.be/0Gmh_EseT3g
 
 Follow these step to use: 
 
-1. Download the extension file and upzip 
+1. Go to github: https://github.com/LazyDev2411/9gag-Feed
 
-2. Click the wrench icon on the browser toolbar.
+2. Download the extension file and upzip 
 
-3. Select Tools > Extensions.
+3. Click the wrench icon on the browser toolbar.
 
-4. Locate the extension folder and drag onto the Extensions page.
+4. Select Tools > Extensions.
+
+5. Locate the extension folder and drag onto the Extensions page.
 
 Welcome all developer to contribute
