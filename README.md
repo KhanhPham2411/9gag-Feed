@@ -3,6 +3,8 @@ Check 9gag via facebook
 
 fanpage: https://www.facebook.com/pages/9GAG-Feed/909938539049281
 
+demo: http://youtu.be/0Gmh_EseT3g
+
 Follow these step to use: 
 
 1. Download the extension file and upzip 
